@@ -1,23 +1,23 @@
 {  box-sizing: border-box;}
 
 h1 {
-	font-size: 27px;
+	font-size: 175%;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 	margin-bottom: 30px;}
 
 p {
-	padding: 15px 5px 0px 5px;
+	padding: 10px 5px 0px 5px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	position: relative;}
 
 .section { 
 	background-color: DarkGrey;
    	border: 2px solid black;
-   	margin-top: 20px; 
-   	margin-right: 20px; 
-   	padding: 3px;
+   	margin-top: 40px; 
+   	margin-right: 40px; 
+   	padding: 15px;
    	text-align: justify;
    	position: relative;}
 
@@ -28,7 +28,8 @@ p {
 	font-weight: bold;
 	text-align: center;
 	float: right; top :0; right: 0; margin: 0;
-	position: absolute;}
+	position: absolute;
+	font-size: 125%;}
 
 #chicken {
 	background-color: DarkSalmon;
